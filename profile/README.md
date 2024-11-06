@@ -63,6 +63,7 @@ graph TD
 ## 협업 및 도구
 
 - **버전 관리:** GitHub, GitHub Project
+- **IDE:** Intellij, VSCode, AndroidStudio
 - **소통:** Discord, GitHub
 - **디자인:** Figma
 
