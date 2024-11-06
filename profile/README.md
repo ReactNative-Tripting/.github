@@ -55,14 +55,15 @@ graph TD
 ## 기술 스택
 
 - **프론트엔드:** React Native, styled-components
-- **백엔드:** Java 17, MongoDB
+- **백엔드:** Java 17, SpringBoot
+- **DB:** MongoDB
 - **서버:** Amazon EC2, Apache
 - **인공지능:** Azure AI Vision
 
 ## 협업 및 도구
 
 - **버전 관리:** GitHub, GitHub Project
-- **소통:** Discord, KakaoTalk, GitHub
+- **소통:** Discord, GitHub
 - **디자인:** Figma
 
 ## 작업 관리
